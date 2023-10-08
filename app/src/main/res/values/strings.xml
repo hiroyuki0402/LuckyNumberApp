@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LuckyNumberApp</string>
+    <string name="luckyNumberTitle">ラッキーナンバー</string>
+    <string name="namePlaceholder">名前を入力してください</string>
+    <string name="luckyNumber">あなたのラッキーナンバー\n</string>
+    <string name="sherebutton">シェアする</string>
 </resources>
